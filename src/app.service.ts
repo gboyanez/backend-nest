@@ -9,4 +9,10 @@ export class AppService {
   getHelloFrances(): string {
   	return 'frances 3';
   }
+
+  getHelloEspanol(): string {
+  	return 'espanoool';
+  }
+
+
 }
